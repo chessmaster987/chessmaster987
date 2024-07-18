@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Hits](https://u8views.com/api/v1/github/profiles/83759947/views/day-week-month-total-count.svg)](https://u8views.com/github/chessmaster987)
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chessmaster987&bg_color=000000&color=00ffbf&line=d0e52e&point=ff2424&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **chessmaster987/chessmaster987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
